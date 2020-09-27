@@ -1,0 +1,13 @@
+C:\Users\denis\Documents\Browser\bin\Debug\SimpleWebBrowser.exe.config
+C:\Users\denis\Documents\Browser\bin\Debug\SimpleWebBrowser.exe
+C:\Users\denis\Documents\Browser\bin\Debug\SimpleWebBrowser.pdb
+C:\Users\denis\Documents\Browser\obj\Debug\SimpleWebBrowser.csprojAssemblyReference.cache
+C:\Users\denis\Documents\Browser\obj\Debug\SimpleWebBrowser.Form1.resources
+C:\Users\denis\Documents\Browser\obj\Debug\SimpleWebBrowser.Properties.Resources.resources
+C:\Users\denis\Documents\Browser\obj\Debug\SimpleWebBrowser.csproj.GenerateResource.cache
+C:\Users\denis\Documents\Browser\obj\Debug\SimpleWebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\denis\Documents\Browser\obj\Debug\SimpleWebBrowser.exe
+C:\Users\denis\Documents\Browser\obj\Debug\SimpleWebBrowser.pdb
+C:\Users\denis\Documents\Browser\bin\Debug\aa\SimpleWebBrowser.resources.dll
+C:\Users\denis\Documents\Browser\obj\Debug\SimpleWebBrowser.Form1.aa.resources
+C:\Users\denis\Documents\Browser\obj\Debug\aa\SimpleWebBrowser.resources.dll
